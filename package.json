@@ -1,0 +1,25 @@
+{
+    "name": "api-e2e-testing",
+    "version": "1.0.0",
+    "description": "API E2E testing for Restful Booker using Mocha and Chai",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha test/**/*.test.js"
+    },
+    "keywords": [
+      "api",
+      "e2e",
+      "testing",
+      "mocha",
+      "chai"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "chai": "^4.3.10",
+      "chai-http": "^4.4.0",
+      "dotenv": "^16.4.5",
+      "mocha": "^10.4.0"
+    }
+  }
+  

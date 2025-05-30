@@ -1,0 +1,11 @@
+{
+    "firstname": "NEFERTARI",
+    "lastname": "LILIY",
+    "totalprice": 1250000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-05-01",
+        "checkout": "2025-06-01"
+    },
+    "additionalneeds": "Breakfast"
+}
